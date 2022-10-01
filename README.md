@@ -4,8 +4,9 @@ UTF 8 bundle test project
 
 ## 使用yarn安装包
 
+```bash
 yarn add fast-gbk
-
+```
 
 ## 写代码 src/gbklib.js
 
