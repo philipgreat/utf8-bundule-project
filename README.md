@@ -16,7 +16,7 @@ window.encodeToGBKArray = encode;
 window.decodefromGBKArray = decode;
 
 ```
-##使用browserify导出
+## 使用browserify导出
 
 
 ```
