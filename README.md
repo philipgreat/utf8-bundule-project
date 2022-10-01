@@ -7,7 +7,7 @@ UTF 8 bundle test project
 yarn add fast-gbk
 
 
-## 写代码
+## 写代码 src/gbklib.js
 
 ```javascript
 const { encode, decode } = require('fast-gbk')();
