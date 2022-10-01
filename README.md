@@ -1,4 +1,4 @@
-# utf8-bundule-project 导出GBK编码成UTF8的函数
+# 导出GBK编码成UTF8的函数
 UTF 8 bundle test project
 
 
